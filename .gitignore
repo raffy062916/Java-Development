@@ -1,0 +1,8 @@
+bin/
+.settings/
+.metadata/
+.project
+.classpath
+*.class
+*.log
+hs_err_pid*
